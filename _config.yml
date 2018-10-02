@@ -2,8 +2,8 @@ title: Blain Allen Blanchard
 description: This is a test of the new site.
 show_downloads: true
 
-baseurl: "/Stark" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://bab223.github.io/Stark" # change this to the base hostname & protocol for your site
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://bab223.github.io/StarkBackup" # change this to the base hostname & protocol for your site
 
 google_analytics:
 # cayman-blog date format
