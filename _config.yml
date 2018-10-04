@@ -1,6 +1,6 @@
 title: Blain Blanchard
 description: This is my website.
-show_downloads: true
+show_downloads: false
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://bab223.github.io/StarkBackup" # change this to the base hostname & protocol for your site
