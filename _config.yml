@@ -1,5 +1,5 @@
-title: Blain Allen Blanchard
-description: This is a test of the new site.
+title: Blain Blanchard
+description: This is my website.
 show_downloads: true
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -13,11 +13,24 @@ cayman-blog:
 
 theme: # leave it empty
 
+# URL
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
+  blain: http://www.google.com
+
 # social
 author: "Blain Blanchard"
 image: /thumbnail-jumbo.png
 twitter:
   username: xblainx
+instagram:
+  username: xblainx
+spotify:
+  username: xblainx
+snapchat:
+  username: xblainx
+
 #  site:
 facebook:
   #publisher: 1592372034171500
